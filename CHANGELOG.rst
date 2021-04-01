@@ -2,6 +2,11 @@
 Changelog for package rcpputils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.2.0 (2021-04-01)
+------------------
+* Add functions for getting library path and filename (`#128 <https://github.com/ros2/rcpputils/issues/128>`_)
+* Contributors: Nikolai Morin
+
 2.1.0 (2021-03-01)
 ------------------
 * Add path equality operators (`#127 <https://github.com/ros2/rcpputils/issues/127>`_)
